@@ -1,9 +1,9 @@
 # XiaoaiVoice
 非小米机型语音唤醒小爱
-下载Voice Bot
+下载Voice Bot （可直接在上面下载）
 前往https://www.uy5.net/voicebot-pro/下载破解版
 或前往官网https://voice-bot.cn/
-下载小爱同学-改编版-（哔哩哔哩‘老年人Captain’有源文件）
+下载小爱同学-改编版-（哔哩哔哩‘老年人Captain’有源文件）（或在上面下载xatx.zip)
 地址：https://github.com/chhc007/OneClickXiaoai/releases/tag/V23.10.31第一个文件
 <img width="918" height="496" alt="屏幕截图 2026-08-11 203948" src="https://github.com/user-attachments/assets/b468370f-3118-427f-b771-ac4886665ffd" />
 1.新建配置文件
@@ -18,7 +18,7 @@
 6.选择“启动程序”
 <img width="1245" height="539" alt="屏幕截图 2026-08-11 205130" src="https://github.com/user-attachments/assets/7b172fe3-dc65-4f9d-9eff-4e15ee4db4e4" />
 7.选择刚才解压好的文件xatx>xiaoai.exe
-<img width="932" height="521" alt="屏幕截图 2026-08-11 205254" src="https://github.com/user-attachments/assets/4edcbab9-e77a-408d-a5bb-08e743846b8e" />
-最后，都点完成/确定
+<img width="932" height="521" alt="屏幕截图 2026-08-11 205254" src="https://github.com/user-attachments/assets/009722c6-23e9-42d3-8ee9-5d4b44c4d7ae" />
+8.最后，都点完成/确定
 对着你的麦克风说“小爱同学”就能实现打开小爱同学并进行对话了（或按热键）。
 Voice Bot这款软件很强大，可以稍后自行探索哦~
