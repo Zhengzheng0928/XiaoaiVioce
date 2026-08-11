@@ -1,4 +1,4 @@
-# XiaoaiVioce
+# XiaoaiVoice
 非小米机型语音唤醒小爱
 下载Voice Bot
 前往https://www.uy5.net/voicebot-pro/下载破解版
