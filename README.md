@@ -4,7 +4,7 @@
 前往https://www.uy5.net/voicebot-pro/下载破解版
 或前往官网https://voice-bot.cn/
 下载小爱同学-改编版-（哔哩哔哩‘老年人Captain’有源文件）（或在上面下载xatx.zip)
-地址：https://github.com/chhc007/OneClickXiaoai/releases/tag/V23.10.31第一个文件
+地址：https://github.com/chhc007/OneClickXiaoai/releases/tag/V23.10.31 第一个文件
 <img width="918" height="496" alt="屏幕截图 2026-08-11 203948" src="https://github.com/user-attachments/assets/b468370f-3118-427f-b771-ac4886665ffd" />
 1.新建配置文件
 <img width="893" height="698" alt="屏幕截图 2026-08-11 204217" src="https://github.com/user-attachments/assets/99ec464e-0d60-4b45-9682-937f3ab04763" />
