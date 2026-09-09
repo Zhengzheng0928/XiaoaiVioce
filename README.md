@@ -1,7 +1,7 @@
 # XiaoaiVoice
 非小米机型语音唤醒小爱
 下载Voice Bot （可直接在上面下载）
-前往https://www.uy5.net/voicebot-pro/下载破解版
+前往https://www.uy5.net/voicebot-pro/ 下载破解版
 或前往官网https://voice-bot.cn/
 下载小爱同学-改编版-（哔哩哔哩‘老年人Captain’有源文件）（或在上面下载xatx.zip)
 地址：https://github.com/chhc007/OneClickXiaoai/releases/tag/V23.10.31 第一个文件
